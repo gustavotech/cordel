@@ -61,9 +61,7 @@ section{
 }
 
 section > p {
-    font-size: 24px;
     padding-bottom: 2.7em;
-    font-weight: bold;
 }
 
 section.normal{
